@@ -5,12 +5,12 @@ import 'lib.dart';
 void main() {
   var name = 'Voyager 1';
   var year = 1977;
-  var antennaDiameter = 3.7;
+  // var antennaDiameter = 3.7;
   var flybyObjects = ['Jupiter', 'Saturn', 'Uranus', 'Neptune'];
-  var image = {
-    'tags': ['Saturn'],
-    'url': '//path/to/saturn.jpg',
-  };
+  // var image = {
+  //   'tags': ['Saturn'],
+  //   'url': '//path/to/saturn.jpg',
+  // };
 
   var to_print = '20th century';
   if (year >= 2001) {
